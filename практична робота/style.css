@@ -1,0 +1,38 @@
+.main-title {
+    font-family:'Montserrat';
+    font-size:50px;
+    margin-left: 10px;
+
+}
+
+.link {
+    font-family:'Montserrat';
+    font-weight:500;
+    margin-left: 10px;
+    color:black;
+    text-decoration: none;
+}
+
+.last-news {
+    margin-left: 10px;
+    font-family:'Montserrat';
+}
+
+.card{
+    margin-left: 10px;
+    background-color: white;
+    border:1px solid grey;
+    padding: 20px;
+    border-radius: 14px;
+    max-width: 400px;
+    margin-top: 10px;
+    font-family:'Montserrat';
+}
+
+.important2{
+    border:1px solid red;
+}
+.important {
+    margin-left: 10px;
+    font-family:'Montserrat';
+}
